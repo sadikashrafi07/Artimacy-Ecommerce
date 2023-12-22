@@ -1,0 +1,110 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 300px;
+}
+
+h2 {
+    margin-top: 0;
+    color: #333;
+}
+
+.input-container {
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #555;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin-top: 3px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.error-message {
+    color: red;
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+.forgot-password {
+    text-align: right;
+    margin-top: 10px;
+    font-size: 14px;
+    color: #007bff;
+}
+
+.forgot-password a {
+    text-decoration: none;
+    color: #007bff;
+    transition: color 0.3s;
+}
+
+.forgot-password a:hover {
+    color: #0056b3;
+}
+
+
+.logo {
+    max-width: 150px;
+    margin: 20px auto; /* Center the logo horizontally and provide some top margin */
+    display: block; /* Ensure the image is displayed as a block element */
+    border-radius: 50%; /* Add a circular border radius for a modern look */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Apply a subtle shadow */
+}
+
+.sign-up {
+    margin-top: 15px;
+    font-size: 14px;
+    color: #333;
+   
+}
+
+.sign-up a {
+    text-decoration: none;
+    color: #007bff;
+    transition: color 0.3s;
+}
+
+.sign-up a:hover {
+    color: #0056b3;
+}

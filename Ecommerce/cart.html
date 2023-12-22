@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sadik's Ecommerce</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <section id="header">
+        <div id="log">
+        <a href="#"><img src="img/logo.png" class="logo" alt="" width="200px"></a>
+    
+    </div>
+        <div>
+        <ul id="navbar">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="shop.html">Shop</a></li>
+            <li><a href="blog.html">Blog</a></li>
+            <li><a  href="about.html">About</a></li>
+            <li><a  href="contact.html">Contact</a></li>
+            <li id="lg-bag"><a class ="active" href="cart.html">
+                <i class="fa-solid fa-bag-shopping"></i></a></li>
+            <a href="#" id="close"><i class="fa-solid fa-xmark"></i></a>
+        </ul>
+        </div>
+        <div id="mobile">
+            <a href="cart.html"><i class="fa-solid fa-bag-shopping"></i></a>
+            <i id="bar" class="fas fa-outdent"></i>
+        </div>
+    </section>
+    
+    <section id="page-header" class="cart">
+        <h2>#CART</h2>
+        <p>Add your artworks to the Cart!</p>   
+    </section>
+    <section id="cart" class="section-p1">
+        <table width="100%">
+            <thead>
+                <tr>
+                    <td>
+                        Remove
+                    </td>
+                    <td>
+                        Image
+                    </td>
+                    <td>
+                        Product
+                    </td>
+                    <td>
+                        Price
+                    </td>
+                    <td>
+                        Quantity
+                    </td>
+                    <td>
+                        Subtotal
+                    </td>
+                </tr>
+            </thead>
+        <tbody>
+            <tr>
+                <td>
+                <a><i class="far fa-times-circle"></i></a></td>
+                <td><img src="img/products2/1.jpg" alt=""></td>
+                <td>Micron Jhumar</td>
+                <td>
+                    $118
+                </td>
+                <td>
+                    <input type="number" value="1"></td>
+                    <td>$118</td>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                <a><i class="far fa-times-circle"></i></a></td>
+                <td><img src="img/products2/2.jpg" alt=""></td>
+                <td>Micron Miorroe</td>
+                <td>
+                    $80
+                </td>
+                <td>
+                    <input type="number" value="1"></td>
+                    <td>$80</td>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                <a><i class="far fa-times-circle"></i></a></td>
+                <td><img src="img/products2/3.jpg" alt=""></td>
+                <td>Micron HandBag</td>
+                <td>
+                    $99
+                </td>
+                <td>
+                    <input type="number" value="1"></td>
+                    <td>$99</td>
+                </td>
+            </tr>
+        </tbody>
+
+        </table>
+    </section>
+    <section id="cart-add" class="section-p1">
+        <div id="coupon">
+            <h3> Apply Coupon</h3>
+            <input type="text" placeholder="Enter your Coupon">
+            <button class="normal">Apply</button>
+
+        </div>
+        <div id="subtotal">
+            <h3>Cart Total</h3>
+                <table>
+                    <tr>
+                        <td> Cart Subtotal</td>
+                        <td>$ 305</td>
+                    </tr>
+                    <tr>
+                        <td>Shipping</td>
+                        <td>Free</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Total</strong>
+                        <td><strong>$ 305</strong></td>
+                           
+                        </td>
+                    </tr>
+                </table>
+                <button class="normal">Proceed to checkout</button>
+        </div>
+    </section>
+        <section id="newsletter" class="section-p1 section-m1"> 
+            <div class="newstext">
+                <h4>Sign Up For Newsletters</h4>
+                <p>Get E-mail updates about our latest shop and <span>special offers.</span>
+                </p>
+            </div>
+            <div class="form">
+                <input type="text" placeholder="Your email address">
+                <button class="normal"><a class="sign" href="SignIN.HTML">Sign Up</a> </button>
+            </div>
+            </section>
+           
+
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+
+
+
+    <footer class="section-p1">
+        <div id="foot" class="col">
+        <div class="Artimacy">
+            <img class="logo1" src="img/logo.png" alt="">
+            <h3>Artimacy</h3>
+        </div>
+        <h4>Contact</h4>
+        <p><strong>Address:</strong>9th block Jayanagar, Bengaluru</p>
+        <p><strong>Phone:</strong>+91 832978816</p>
+        <p><strong>Hours:</strong>10:00-18:00, Mon - Sat</p>
+        <div class="follow">
+            <h4>Follow us</h4>
+            <div class="icon">
+                <i class="fab fa-facebook-f"></i>
+                <i class="fab fa-twitter"></i>
+                <i class="fab fa-instagram"></i>
+                <i class="fab fa-pinterest"></i>
+                <i class="fab fa-youtube"></i>
+            </div>
+        </div>
+    </div>
+    <div class="col">
+        <h4>About</h4>
+        <a href="#">About us</a>
+        <a href="#">Delivery Information</a>
+        <a href="#">Privacy Policy</a>
+        <a href="#">Term & Condition</a>
+        <a href="#">Contact Us</a>
+    </div>
+    <div class="col">
+        <h4>My Account</h4>
+        <a href="#">Sign In</a>
+        <a href="#">View Cart</a>
+        <a href="#">My Wishlist</a>
+        <a href="#">Track my Order</a>
+        <a href="#">Help</a>
+    </div>
+    <div class="col">
+        <div class="install">
+        <h4>Install App</h4>
+        <p>From App Store or Google Play</p>
+        <div class="row">
+            <img src="img/pay/app.png" alt="">
+            <img src="img/pay/play.png" alt="">
+        </div>
+        <p>Secured Payment Gateways</p>
+        <div class="row">
+        <img src="img/pay/pay.png" alt="">
+    </div>
+    </div>
+</div>
+
+<div class="copyright">
+    <p>
+        © 2023, Sadik - HTML CSS Ecommerce
+    </p>
+</div>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>

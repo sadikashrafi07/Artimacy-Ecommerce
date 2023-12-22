@@ -1,0 +1,89 @@
+ody {
+    width: 100%;
+  }
+   /* Header Start */
+    
+  #header{
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 20px 60px;
+      background: #E3E6F3;
+      box-shadow:0 5px 15px rgb(0, 0, 0,0.06);
+      border-style: hidden;
+      z-index: 999;
+      position: sticky;
+      top: 0;
+      left:0;
+      
+   }
+  
+   #navbar{
+     display: flex;
+      align-items: center;
+      justify-content: center;
+   }
+   #navbar li{
+     list-style: none;
+     padding: 0 20px;
+     position: relative;
+   }
+   #navbar li a{
+     text-decoration: none;
+     font-size: 16px ;
+     font-weight: 600;
+     color: #1a1a1a;
+   }
+  
+   #navbar li a:hover,
+   #navbar li a.active{
+     color: #088187;
+     transition: 0.3 ease;
+   }
+  
+   #navbar li a.active::after,
+   #navbar li a:hover::after{
+     content: "";
+     width: 30%;
+     height: 2px;
+     background-color: #088187;
+     position:absolute;
+     bottom: -4px;
+     left: 20px;
+  
+   }
+   #log{
+     display: flex;
+     justify-content: center;
+     flex-wrap: wrap;
+   }
+   #close{
+     position: absolute;
+     top: 30px;
+     left: 30px;
+     color: #222;
+     font-size: 24px;
+     display: none;
+   }
+  
+   #mobile{
+     display: none;
+     align-items: center;
+  
+   }
+  
+  
+   .logo {
+     max-width: 150px;
+     margin: 20px auto; /* Center the logo horizontally and provide some top margin */
+     display: block; /* Ensure the image is displayed as a block element */
+     border-radius: 30%; /* Add a circular border radius for a modern look */
+     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Apply a subtle shadow */
+  }
+  .logo2 {
+     width: 350px;
+     margin: 20px auto; /* Center the logo horizontally and provide some top margin */
+     display:flex; /* Ensure the image is displayed as a block element */
+     align-items: flex-start; /* Add a circular border radius for a modern look */
+     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Apply a subtle shadow */
+  }
