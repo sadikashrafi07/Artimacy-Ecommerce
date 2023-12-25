@@ -2,6 +2,7 @@
 ## Crafted Showcase
 
 ![GIF](https://media.giphy.com/media/ooh9FuvKSME9tuyB4k/giphy-downsized-large.gif)
+)
 
 
 <img src="https://i.ibb.co/7SmXxYF/Screenshot-2023-12-25-at-12-40-48-PM.png" width="425"/> <img src="https://i.ibb.co/GQWH8fH/Screenshot-2023-12-23-at-12-35-50-AM.png" width="425"/>
