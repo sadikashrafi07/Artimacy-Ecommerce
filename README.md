@@ -3,11 +3,11 @@
 
 ![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RnaW9qNnJ5bGF6bHo0bjZvdGVtcGR0MDJoOG0zeHQ1M2FiM2VsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ooh9FuvKSME9tuyB4k/giphy-downsized-large.gif)
 
-<img src="https://i.ibb.co/7SmXxYF/Screenshot-2023-12-25-at-12-40-48-PM.png" width="320"/> <img src="https://i.ibb.co/GQWH8fH/Screenshot-2023-12-23-at-12-35-50-AM.png" width="320" alt="title-2"/>
+<img src="https://i.ibb.co/7SmXxYF/Screenshot-2023-12-25-at-12-40-48-PM.png" width="425"/> <img src="https://i.ibb.co/GQWH8fH/Screenshot-2023-12-23-at-12-35-50-AM.png" width="425"/>
 
 <img src="https://i.ibb.co/tC50MZm/Screenshot-2023-12-25-at-12-41-28-PM.png" width="425"/> <img src="https://i.ibb.co/vL5ZBcY/Screenshot-2023-12-23-at-12-36-35-AM.png" width="425"/>
 
-<img src="https://i.ibb.co/PYK7Z8G/Screenshot-2023-12-23-at-12-38-05-AM.png" width="270"/> <img src="https://i.ibb.co/wckPyqC/Screenshot-2023-12-25-at-12-48-07-PM.png" width="270"/>
+<img src="https://i.ibb.co/PYK7Z8G/Screenshot-2023-12-23-at-12-38-05-AM.png" width="320"/> <img src="https://i.ibb.co/wckPyqC/Screenshot-2023-12-25-at-12-48-07-PM.png" width="320"/>
 
 <img src="https://i.ibb.co/tPhDZ4m/Screenshot-2023-12-23-at-12-37-09-AM.png" width="425"/> <img src="https://i.ibb.co/gmVL2nj/Screenshot-2023-12-25-at-1-19-11-PM.png" width="425"/>
 
