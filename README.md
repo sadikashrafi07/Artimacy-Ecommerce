@@ -7,7 +7,8 @@
 
 ![Blog](https://i.ibb.co/tC50MZm/Screenshot-2023-12-25-at-12-41-28-PM.png) ![About](https://i.ibb.co/vL5ZBcY/Screenshot-2023-12-23-at-12-36-35-AM.png)
 
-![Registration-Form](https://i.ibb.co/PYK7Z8G/Screenshot-2023-12-23-at-12-38-05-AM.png) ![Login](https://i.ibb.co/wckPyqC/Screenshot-2023-12-25-at-12-48-07-PM.png)
+![Registration-Form](https://i.ibb.co/PYK7Z8G/Screenshot-2023-12-23-at-12-38-05-AM.png){width=270 height=480} ![Login](https://i.ibb.co/wckPyqC/Screenshot-2023-12-25-at-12-48-07-PM.png){width=270 height=480}
+
 
 ![Contact-Section1](https://i.ibb.co/tPhDZ4m/Screenshot-2023-12-23-at-12-37-09-AM.png) ![Contact-Section2](https://i.ibb.co/gmVL2nj/Screenshot-2023-12-25-at-1-19-11-PM.png)
 
