@@ -1,7 +1,7 @@
 
 ## Crafted Showcase
 
-<img src='https://media.giphy.com/media/ooh9FuvKSME9tuyB4k/giphy-downsized-large.gif' width='40' height='40' />
+<img src='https://media.giphy.com/media/ooh9FuvKSME9tuyB4k/giphy-downsized-large.gif' width='10' height='10' />
 
 ![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnhiM3QwaXVoMmFnZDZzZjFhd3l5bnJ3eXJvZHlyMDI4emV0dm95eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vCri7kFHV07KzuL1fQ/giphy-downsized-large.gif)
 
