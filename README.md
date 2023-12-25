@@ -3,7 +3,7 @@
 
 ![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnhiM3QwaXVoMmFnZDZzZjFhd3l5bnJ3eXJvZHlyMDI4emV0dm95eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vCri7kFHV07KzuL1fQ/giphy-downsized-large.gif)
 
-<img src="https://i.ibb.co/7SmXxYF/Screenshot-2023-12-25-at-12-40-48-PM.png" width="425"/> &nbsp;&nbsp; <img src="https://i.ibb.co/GQWH8fH/Screenshot-2023-12-23-at-12-35-50-AM.png" width="425"/>
+<img src="https://i.ibb.co/7SmXxYF/Screenshot-2023-12-25-at-12-40-48-PM.png" width="400"/> &nbsp;&nbsp; <img src="https://i.ibb.co/GQWH8fH/Screenshot-2023-12-23-at-12-35-50-AM.png" width="400"/>
 
 <img src="https://i.ibb.co/tC50MZm/Screenshot-2023-12-25-at-12-41-28-PM.png" width="425"/> &nbsp;&nbsp; <img src="https://i.ibb.co/vL5ZBcY/Screenshot-2023-12-23-at-12-36-35-AM.png" width="425"/>
 
