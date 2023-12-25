@@ -1,8 +1,4 @@
-
 ## Crafted Showcase
-
-<img src="https://media.giphy.com/media/vCri7kFHV07KzuL1fQ/giphy-downsized-large.gif" width="100" height="100" />
-
 
 ![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnhiM3QwaXVoMmFnZDZzZjFhd3l5bnJ3eXJvZHlyMDI4emV0dm95eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vCri7kFHV07KzuL1fQ/giphy-downsized-large.gif)
 
@@ -17,7 +13,6 @@
 
 # Ecommerce Website
 The core concept revolves around establishing an application that functions as both an e-commerce and learning platform. This platform targets tribal and local handicrafts, aiming to empower artists by facilitating learning opportunities and global market access
-
 
 ## Appendix
 ***Acknowledgment:***                                         
@@ -59,7 +54,6 @@ This platform uniquely combines social media, e-commerce, and learning, allowing
 ***Conclusion:***  
 In short, this project is a crucial effort to breathe new life into Indian Tribal and Local Artworks and Handicrafts. In a world dominated by technology, preserving these special creations is crucial for keeping our cultural diversity alive and encouraging creativity. We expect that the success of this business model will significantly add value to the global art market.
 
-
 ## Tech Stack
 ***Front-End:***                                               
 - ***HTML***: For structuring the content of your web pages.       
@@ -69,7 +63,6 @@ In short, this project is a crucial effort to breathe new life into Indian Triba
 ***Back-End***:  
 - ***PHP***: For server-side scripting, handling registration, and other server-side logic.         
 - ***phpMyAdmin:*** For database management.
-
 
 ## Feedback
 We value your input and are committed to providing you with the best possible experience. If you have any suggestions, feedback, or if there's an idea you'd like me to consider, please don't hesitate to reach out to me at angadimohammadsadiq@gmail.com.
