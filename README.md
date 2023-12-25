@@ -1,7 +1,7 @@
 
 ## Crafted Showcase
 
-<iframe src="https://giphy.com/embed/ooh9FuvKSME9tuyB4k" frameborder="0" scrolling="no" width="100%" height="400px" style="-webkit-backface-visibility: hidden; -webkit-transform: scale(1);" allowFullScreen></iframe>
+<img src="https://giphy.com/embed/ooh9FuvKSME9tuyB4k" img>
 
 <p><a href="https://giphy.com/gifs/ooh9FuvKSME9tuyB4k">via GIPHY</a></p>
 
