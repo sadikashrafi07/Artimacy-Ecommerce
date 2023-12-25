@@ -1,7 +1,7 @@
 
 ## Crafted Showcase
 
-![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RnaW9qNnJ5bGF6bHo0bjZvdGVtcGR0MDJoOG0zeHQ1M2FiM2VsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ooh9FuvKSME9tuyB4k/giphy-downsized-large.gif)
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RnaW9qNnJ5bGF6bHo0bjZvdGVtcGR0MDJoOG0zeHQ1M2FiM2VsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ooh9FuvKSME9tuyB4k/giphy-downsized-large.gif)
 
 <img src="https://i.ibb.co/7SmXxYF/Screenshot-2023-12-25-at-12-40-48-PM.png" width="425"/> <img src="https://i.ibb.co/GQWH8fH/Screenshot-2023-12-23-at-12-35-50-AM.png" width="425"/>
 
