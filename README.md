@@ -1,5 +1,4 @@
 ## Crafted Showcase
-
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejUxM2R1YWFuNG1zODJkNGpudGQxdDNsczVvdWpkbmFqcGpuZnlhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OCnYuk4G6pA6JrMny1/source.gif" height="50%" width="50%">
 
 
